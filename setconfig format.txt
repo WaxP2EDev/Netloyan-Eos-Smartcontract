@@ -1,0 +1,1 @@
+[ { "days": 1, "fees": "1" }, { "days": 5, "fees": "2" }, { "days": 10, "fees": "4" }, { "days": 15, "fees": "6" }, { "days": 20, "fees": "8" }, { "days": 25, "fees": "10" }, { "days": 30, "fees": "12" } ]

@@ -1,0 +1,10 @@
+The functioning of actions is as follows 
+Logstake- enter the staking entry in the tables
+Logunstake- removes the staking entry from the tables
+Process- first checks which staking entries unstake time is less than current time and then call inlineunstak
+inlineunstak- unstakes the wax from the user’s account
+Testreset- delete all the entries in tables and setconfig
+Setconfig- specify the fees for the specific number of days
+admintransfr- transfers all the available wax in account to “cpuloanpool2” wax address 
+waxrefund- calls refund
+adminunstake- removing wax from user’s account manually 
